@@ -10,15 +10,7 @@ I’m proficient in several game engines, web technologies, and programming lang
 
 ## 🛠️ Languages & Tools
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="50" alt="HTML5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="50" alt="CSS3" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="50" alt="Python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="50" alt="C++" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="50" alt="C#" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" height="50" alt="Lua" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="50" alt="PHP" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" height="50" alt="Kotlin" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,csharp,lua,php,kotlin" height="50" alt="Languages and Tools" />
 </div>
 
 ---
@@ -49,15 +41,13 @@ I’m proficient in several game engines, web technologies, and programming lang
 - Create interactive and engaging games. 🎮  
 - Build mobile and web applications that make an impact.  
 - Improve my teamwork and project management skills.
-  
+
 ---
 
 ## 🚀 What I'm Learning Now
 I'm currently expanding my skills by learning:
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="50" alt="C" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="50" alt="Java" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-plain.svg" height="50" alt="Go" />
+    <img src="https://skillicons.dev/icons?i=c,java,go" height="50" alt="Learning Languages" />
 </div>
 
 ---
@@ -65,20 +55,19 @@ I'm currently expanding my skills by learning:
 ## 📱 Connect with Me
 <div align="center">
     <a href="https://github.com/mustafaC0der" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+        <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
     </a>
     <a href="https://www.instagram.com/_mustafa_lol_/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram" />
+        <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
     </a>
     <a href="https://www.tiktok.com/@mustafa_ishere" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-plain.svg" height="40" alt="TikTok" />
+        <img src="https://skillicons.dev/icons?i=tiktok" height="40" alt="TikTok" />
     </a>
 </div>
 
 ---
 
 ## 📊 GitHub Stats
-<!-- Optionally, add a GitHub stats card -->
 ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafaC0der&show_icons=true&theme=radical)
 
 ---
