@@ -1,67 +1,75 @@
-# 👋 Hi there, I'm Mustafa Shakeel!
+# Hi, I'm Mustafa Shakeel! 👋
 
-Just your average 14-year-old software developer. I'm a game developer proficient in **Unity**, **Godot**, and **Roblox Studio**.
+![Profile Banner](https://user-images.githubusercontent.com/placeholder-image) <!-- Replace with your profile banner image URL -->
 
-## 💻 Languages and Frameworks
-Here are the programming languages I know:
+**14-year-old software developer** | **Game Developer** | **Web Developer** | **Tech Enthusiast**
 
-![HTML5](https://img.shields.io/badge/HTML5-5E5E5E?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-5E5E5E?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-5E5E5E?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-5E5E5E?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-5E5E5E?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-5E5E5E?style=flat-square&logo=csharp&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-5E5E5E?style=flat-square&logo=lua&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-5E5E5E?style=flat-square&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-5E5E5E?style=flat-square&logo=kotlin&logoColor=white)
+I’m proficient in several game engines, web technologies, and programming languages. Currently working on improving my Python skills and expanding my knowledge in **C**, **Java**, and **Go**. 🚀
 
-## 🛠️ Tools and Software
-I have experience with the following tools and software:
+---
 
-### Autodesk
-![AutoCAD](https://img.shields.io/badge/AutoCAD-5E5E5E?style=flat-square&logo=autocad&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-5E5E5E?style=flat-square&logo=fusion360&logoColor=white)
-![Maya](https://img.shields.io/badge/Maya-5E5E5E?style=flat-square&logo=autodesk&logoColor=white)
-![Inventor](https://img.shields.io/badge/Inventor-5E5E5E?style=flat-square&logo=autodesk&logoColor=white)
+## 🛠️ Languages & Tools
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,csharp,lua,php,kotlin" height="50" alt="Languages and Tools" />
+</div>
 
-### Adobe
-![Photoshop](https://img.shields.io/badge/Photoshop-5E5E5E?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-5E5E5E?style=flat-square&logo=adobeillustrator&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-5E5E5E?style=flat-square&logo=adobeaftereffects&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-5E5E5E?style=flat-square&logo=blender&logoColor=white)
+---
 
-## 📂 My Projects
-- **Python Projects**
-  - Age calculators
-  - Complex calculators
-  - Password managers made using Tkinter
-- **C++ Projects**
-  - Worked on several C++ projects involving data structures and algorithms.
-- **Web Development Projects**
-  - Developed multiple websites using **HTML**, **CSS**, and **JavaScript**. Some of these include a personal blog and a portfolio website.
-- **Mobile Apps**
-  - Created simple mobile apps, such as a weather app and a to-do list app, using **Kotlin** for Android.
-- **Game Development Projects**
-  - Worked on various games, including:
-    - A multiplayer game in Roblox
-    - A 2D platformer in Unity with custom physics and animations
+## 🎮 Game Engines I Work With
+- **Unity**
+- **Godot**
+- **Roblox Studio**
+
+---
+
+## 📝 Projects I've Worked On
+### Python Projects
+- Age Calculators  
+- Complex Calculators  
+- Password Managers (Tkinter)
+
+### C++ Projects  
+- Developed various **data structures** and **algorithms** projects.
+
+---
 
 ## 🎯 My Goals as a Software Engineer
-- Continually improve my coding skills in languages such as C++, Python, and Kotlin.
-- Work on innovative projects that challenge my problem-solving abilities.
-- Contribute to open-source projects and collaborate with other developers.
-- Stay updated with the latest technologies and trends in software development.
-- Create software solutions that enhance user experience and accessibility.
-- Mentor and support other aspiring software engineers in their learning journey.
+- Master advanced programming languages like **C++**, **Python**, and **Kotlin**.
+- Build innovative and challenging software projects.  
+- Collaborate on open-source projects and give back to the developer community.  
+- Stay updated with emerging trends and technologies.  
+- Create interactive and engaging games. 🎮  
+- Build mobile and web applications that make an impact.  
+- Improve my teamwork and project management skills.
 
-## 📚 Languages I Want to Learn
-- Go
-- Swift
-- Rust
-- TypeScript
+---
 
-## 📫 Connect with Me
-- [GitHub](https://github.com/mustafaC0der)
-- [Instagram](https://www.instagram.com/_mustafa_lol_/)
-- [TikTok](https://www.tiktok.com/@mustafa_ishere)
+## 🚀 What I'm Learning Now
+I'm currently expanding my skills by learning:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,java,go" height="50" alt="Learning Languages" />
+</div>
 
+---
+
+## 📱 Connect with Me
+<div align="center">
+    <a href="https://github.com/mustafaC0der" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+    </a>
+    <a href="https://www.instagram.com/_mustafa_lol_/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+    </a>
+    <a href="https://www.tiktok.com/@mustafa_ishere" target="_blank">
+        <img src="https://skillicons.dev/icons?i=tiktok" height="40" alt="TikTok" />
+    </a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafaC0der&show_icons=true&theme=radical)
+
+---
+
+© 2024 Mustafa Shakeel | Portfolio: [Visit My Website](https://your-portfolio-link)
