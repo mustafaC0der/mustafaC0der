@@ -1,6 +1,6 @@
 # Hi, I'm Mustafa Shakeel! 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/placeholder-image) <!-- Optional: Add a banner image -->
+![Profile Banner](https://user-images.githubusercontent.com/placeholder-image) <!-- Replace with your profile banner image URL -->
 
 **14-year-old software developer** | **Game Developer** | **Web Developer** | **Tech Enthusiast**
 
