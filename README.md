@@ -10,12 +10,9 @@ Just your average 14-year-old software developer. I’m a game developer profici
 ![JavaScript](https://skillicons.dev/icons?i=javascript) 
 ![Python](https://skillicons.dev/icons?i=python) 
 ![C++](https://skillicons.dev/icons?i=cpp) 
-<img src="https://skillicons.dev/icons?i=csharp" alt="C#" width="40" height="40">
+![C#](https://skillicons.dev/icons?i=csharp)
 ![Lua](https://skillicons.dev/icons?i=lua) 
-![PHP](https://skillicons.dev/icons?i=php) 
 ![Kotlin](https://skillicons.dev/icons?i=kotlin) 
-![Java](https://skillicons.dev/icons?i=java) 
-![Go](https://skillicons.dev/icons?i=go)
 
 ### Software
 - **Autodesk Software**: AutoCAD, Fusion 360, Maya, Blender
