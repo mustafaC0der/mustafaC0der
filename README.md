@@ -1,13 +1,4 @@
-
 # 👋 Hi, I'm Mustafa Shakeel!
-
-## 🌬️ Computational Fluid Dynamics (CFD)  
-I’m primarily a CFD engineer with expertise in:  
-![ANSYS](https://skillicons.dev/icons?i=ansys)  
-![Pointwise](https://skillicons.dev/icons?i=python&theme=light) *(using placeholder as Pointwise logo isn't directly supported)*  
-![MySQL](https://skillicons.dev/icons?i=mysql)  
-
----
 
 Just your average 14-year-old software developer. I’m a game developer proficient in Unity, Godot, and Roblox Studio. 
 
