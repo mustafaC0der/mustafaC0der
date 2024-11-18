@@ -29,6 +29,9 @@ im primarily a CFD engineer with expertise in ANSYS Fluent and Pointwise.
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Roblox Studio](https://skillicons.dev/icons/robloxstudio.svg)
+![Unity](https://skillicons.dev/icons/unity.svg)
+![Godot](https://skillicons.dev/icons/godot.svg)
 
 ## 📚 Learning
 
