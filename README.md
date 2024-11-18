@@ -29,11 +29,12 @@ im primarily a CFD engineer with expertise in ANSYS Fluent and Pointwise.
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
+
 ## 📚 Learning
 I’m currently learning:
-- C
-- Java
-- Go
+![C](https://skillicons.dev/icons?i=c)
+![Java](https://skillicons.dev/icons?i=java)
+![Go](https://skillicons.dev/icons?i=go)
 
 ## 🚀 Goals as a Software Engineer
 - Continually improve my coding skills in languages such as C++, Python, and Kotlin.
