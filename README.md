@@ -31,7 +31,7 @@ im primarily a CFD engineer with expertise in ANSYS Fluent and Pointwise.
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
 
 ## 📚 Learning
-I’m currently learning:
+
 ![C](https://skillicons.dev/icons?i=c)
 ![Java](https://skillicons.dev/icons?i=java)
 ![Go](https://skillicons.dev/icons?i=go)
