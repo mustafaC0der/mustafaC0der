@@ -1,37 +1,39 @@
 # 👋 Hi, I'm Mustafa Shakeel!
 
-## 🌬️ Computational Fluid Dynamics (CFD)  
-I’m primarily a CFD engineer with expertise in:  
-
-<span style="font-size:24px;">⚙️ ANSYS</span>  
-<span style="font-size:24px;">🌀 Pointwise</span>  
-<i class="devicon-mysql-plain"></i> MySQL  
-
----
-
 Just your average 14-year-old software developer. I’m a game developer proficient in Unity, Godot, and Roblox Studio. 
 
 ## 🧑‍💻 Skills
+### CFD
+
+im primarily a CFD engineer with expertise in ANSYS Fluent and Pointwise.
 
 ### Programming Languages
-<i class="devicon-html5-plain"></i>  
-<i class="devicon-css3-plain"></i>  
-<i class="devicon-javascript-plain"></i>  
-<i class="devicon-python-plain"></i>  
-<i class="devicon-cplusplus-plain"></i>  
-<i class="devicon-csharp-plain"></i>  
-<i class="devicon-lua-plain-wordmark"></i>  
-<i class="devicon-kotlin-plain"></i>  
+![HTML](https://skillicons.dev/icons?i=html) 
+![CSS](https://skillicons.dev/icons?i=css) 
+![JavaScript](https://skillicons.dev/icons?i=javascript) 
+![Python](https://skillicons.dev/icons?i=python) 
+![C++](https://skillicons.dev/icons?i=cpp) 
+![C#](https://skillicons.dev/icons?i=csharp)
+![Lua](https://skillicons.dev/icons?i=lua) 
+![Kotlin](https://skillicons.dev/icons?i=kotlin) 
 
 ### Software
 - **Autodesk Software**: AutoCAD, Fusion 360, Maya, Blender
 - **Adobe Software**: Photoshop, Illustrator, After Effects
 
+### tools
+![Ruby on Rails](https://skillicons.dev/icons?i=rails)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+![Git](https://skillicons.dev/icons?i=git)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Azure](https://skillicons.dev/icons?i=azure)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
 ## 📚 Learning
 I’m currently learning:
-- <i class="devicon-ruby-plain"></i> Ruby (90% Complete)  
-- <i class="devicon-java-plain"></i> Java (40% Complete)  
-- <i class="devicon-go-plain"></i> Go (70% Complete)  
+- C
+- Java
+- Go
 
 ## 🚀 Goals as a Software Engineer
 - Continually improve my coding skills in languages such as C++, Python, and Kotlin.
