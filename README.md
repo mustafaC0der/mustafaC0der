@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Mustafa Shakeel!
 
 ## 🌬️ Computational Fluid Dynamics (CFD)  
