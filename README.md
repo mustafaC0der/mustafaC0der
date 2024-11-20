@@ -16,6 +16,8 @@ im primarily a CFD engineer with expertise in ANSYS Fluent and Pointwise.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
 ![Lua](https://skillicons.dev/icons?i=lua) 
 ![Kotlin](https://skillicons.dev/icons?i=kotlin) 
+![Ruby](https://skillicons.dev/icons?i=ruby)
+
 
 ### Software
 - **Autodesk Software**: AutoCAD, Fusion 360, Maya, Blender
