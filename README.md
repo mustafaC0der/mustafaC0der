@@ -13,7 +13,7 @@ im primarily a CFD engineer with expertise in ANSYS Fluent and Pointwise.
 ![JavaScript](https://skillicons.dev/icons?i=javascript) 
 ![Python](https://skillicons.dev/icons?i=python) 
 ![C++](https://skillicons.dev/icons?i=cpp) 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+![C#](https://skillicons.dev/icons?i=cs)
 ![Lua](https://skillicons.dev/icons?i=lua) 
 ![Kotlin](https://skillicons.dev/icons?i=kotlin) 
 ![Ruby](https://skillicons.dev/icons?i=ruby)
