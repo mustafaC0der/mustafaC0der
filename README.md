@@ -7,18 +7,21 @@ Just your average 14-year-old software developer. I’m a game developer profici
 
 im primarily a CFD engineer with expertise in ANSYS Fluent and Pointwise.
 
-### Programming Languages
+#### Im best at:-
+
+![Ruby](https://skillicons.dev/icons?i=ruby)
+![Lua](https://skillicons.dev/icons?i=lua) 
+![C#](https://skillicons.dev/icons?i=cs)
 ![HTML](https://skillicons.dev/icons?i=html) 
 ![CSS](https://skillicons.dev/icons?i=css) 
 ![JavaScript](https://skillicons.dev/icons?i=javascript) 
 ![Python](https://skillicons.dev/icons?i=python) 
-![C++](https://skillicons.dev/icons?i=cpp) 
-![C#](https://skillicons.dev/icons?i=cs)
-![Lua](https://skillicons.dev/icons?i=lua) 
+
+#### im understand:-
+
 ![Kotlin](https://skillicons.dev/icons?i=kotlin) 
-![Ruby](https://skillicons.dev/icons?i=ruby)
-
-
+![C++](https://skillicons.dev/icons?i=cpp)
+![PHP](https://skillicons.dev/icons?i=php) 
 ### Software
 - **Autodesk Software**: AutoCAD, Fusion 360, Maya, Blender
 - **Adobe Software**: Photoshop, Illustrator, After Effects
