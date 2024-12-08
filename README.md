@@ -17,7 +17,7 @@ im primarily a CFD engineer with expertise in ANSYS Fluent and Pointwise.
 ![JavaScript](https://skillicons.dev/icons?i=javascript) 
 ![Python](https://skillicons.dev/icons?i=python) 
 
-#### im understand:-
+#### i understand:-
 
 ![Kotlin](https://skillicons.dev/icons?i=kotlin) 
 ![C++](https://skillicons.dev/icons?i=cpp)
