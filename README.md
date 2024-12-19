@@ -52,7 +52,5 @@ im primarily a CFD engineer with expertise in ANSYS Fluent and Pointwise.
 - Create impactful software solutions that make a positive impact on society.
 - Become a proficient game developer and create engaging and interactive games.
 
-## 🌐 Connect with Me
-- [GitHub](https://github.com/mustafaC0der)
-- [Instagram](https://www.instagram.com/_mustafa_lol_/)
-- [TikTok](https://www.tiktok.com/@mustafa_ishere)
+![Screenshot 2024-12-19 at 21-35-20 ya hussain flag at DuckDuckGo](https://github.com/user-attachments/assets/aa784ea7-7eac-4bbd-a747-adaf2775181f)
+
