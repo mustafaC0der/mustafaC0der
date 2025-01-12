@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Mustafa Shakeel!
 
-Just your average 15-year-old software developer. I’m a game developer proficient in Unity, Godot, and Roblox Studio. 
+Im just your average software developer. I’m a game developer proficient in Unity, Godot, and Roblox Studio. 
 
 ## 🧑‍💻 Skills
 ### CFD
 
-im primarily a CFD engineer with expertise in ANSYS Fluent and Pointwise.
+I have used ansys and I plan to use pointwise.
 
-#### Im best at:-
+### Im best at:-
 
 ![Ruby](https://skillicons.dev/icons?i=ruby)
 ![Lua](https://skillicons.dev/icons?i=lua) 
@@ -17,7 +17,7 @@ im primarily a CFD engineer with expertise in ANSYS Fluent and Pointwise.
 ![JavaScript](https://skillicons.dev/icons?i=javascript) 
 ![Python](https://skillicons.dev/icons?i=python) 
 
-#### i understand:-
+### i understand:-
 
 ![Kotlin](https://skillicons.dev/icons?i=kotlin) 
 ![C++](https://skillicons.dev/icons?i=cpp)
@@ -39,17 +39,5 @@ im primarily a CFD engineer with expertise in ANSYS Fluent and Pointwise.
 ![Godot](https://skillicons.dev/icons?i=godot)
 ![My Skills](https://skillicons.dev/icons?i=gtk,electron,tauri,androidstudio,vscode,dotnet)
 
-## 📚 Learning
-
-![C](https://skillicons.dev/icons?i=c)
-![Java](https://skillicons.dev/icons?i=java)
-![Go](https://skillicons.dev/icons?i=go)
-
-## 🚀 Goals as a Software Engineer
-- Continually improve my coding skills in languages such as C++, Python, and Kotlin.
-- Work on innovative projects that challenge my problem-solving abilities.
-- Contribute to open-source projects and collaborate with other developers.
-- Create impactful software solutions that make a positive impact on society.
-- Become a proficient game developer and create engaging and interactive games.
 
 
