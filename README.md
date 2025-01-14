@@ -1,16 +1,12 @@
 # 👋 Hi, I'm Mustafa Shakeel!
 
-Im just your average software developer. I’m a game developer proficient in Unity, Godot, and Roblox Studio. 
+Im just your average software engineer.
 
-## 🧑‍💻 Skills
-### CFD
-
-I have used ansys and I plan to use pointwise.
-
-### Im best at:-
+## My tech stack
+### Im best at :-
 
 ![Ruby](https://skillicons.dev/icons?i=ruby)
-![Lua](https://skillicons.dev/icons?i=lua) 
+![Luau](https://skillicons.dev/icons?i=luau) 
 ![C#](https://skillicons.dev/icons?i=cs)
 ![HTML](https://skillicons.dev/icons?i=html) 
 ![CSS](https://skillicons.dev/icons?i=css) 
